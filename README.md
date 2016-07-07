@@ -1,0 +1,2 @@
+# tmux.file
+tmux dotfile
